@@ -1,8 +1,8 @@
 ---
-permalink: /about/
-title: "About"
-layout: single
-excerpt: "About Oenos."
+permalink: /
+title: "Home"
+layout: splash
+excerpt: "Oenos - Home"
 layouts_gallery:
   - url: /assets/images/oenos_profile.jpg
     image_path: /assets/images/oenos_profile.jpg
