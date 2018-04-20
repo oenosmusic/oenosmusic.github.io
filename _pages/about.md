@@ -14,8 +14,15 @@ Oenos is a one man band, turning wine into experimental metal.
 
 {% include gallery id="layouts_gallery"%}
 
+
+### Oenos in the media
+
+- Interview in IDIOTEQ [https://idioteq.com/introducing-wine-infused-post-rock-metal-act-oenos/](https://idioteq.com/introducing-wine-infused-post-rock-metal-act-oenos/)
+
+
+- Interview in Forum 24 (Sorry folks, in Finnish only) [https://issuu.com/forum24/docs/f24_20180412/21](https://issuu.com/forum24/docs/f24_20180412/21)
+
+
+
+
 ---
-
-I'm an indepent musician. I do not earn living from music, however, support is very much appreciated so I can do what I do and cover the costs of releasing music and maintaining the website.
-
-# [Support]({{ "/support/" | relative_url }}){: .btn .btn--success .btn--small}
