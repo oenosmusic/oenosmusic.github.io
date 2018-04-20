@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Discography"
+    url: /discography/
+  - title: "Contact"
+    url: /contact/
+  # - title: "Sitemap"
+  #   url: /sitemap/
