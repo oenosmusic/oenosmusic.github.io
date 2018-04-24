@@ -1,8 +1,8 @@
 ---
-permalink: /discography/
-title: "Discography"
+permalink: /music/
+title: "Music"
 layout: single
-excerpt: "Oenos - Discography"
+excerpt: "Oenos - Music"
 layouts_gallery:
   - url: /assets/images/oenos_nero_I.png
     image_path: /assets/images/oenos_nero_I.png
