@@ -10,7 +10,9 @@ layouts_gallery:
 last_modified_at: 2018-04-10T08:41:35-04:00
 ---
 
-Oenos is a one man band, turning wine into experimental metal.
+Wine infused dark Post-Metal with notes of Black and Doom.
+
+Oenos may very well be the world's first wine metal band. The one-man project started as a post-rock / metal experiment drawing inspiration from the elixir we have come to call wine; all the songs are written under the influence of various wines from around the world and named after the bottle. Musically Oenos has since evolved to explore darker tones of doom, sludge and black metal.
 
 {% include gallery id="layouts_gallery"%}
 
