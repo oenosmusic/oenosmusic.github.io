@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "neon"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Oenos"
-title_separator          : "-"
+title                    : "Oenos Wine Metal"
+title_separator          : "|"
 name                     : "Oenos"
-description              : "London based Oenos does wine inspired metal."
+description              : "Metal music inspired by wine."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "oenosmusic/oenosmusic.github.io"
@@ -88,6 +88,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  - "https://twitter.com/oenosmusic"
+  - "https://www.facebook.com/oenosmusic"
+  - "https://www.instagram.com/oenosmusic"
 
 # Analytics
 analytics:
@@ -197,7 +200,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)

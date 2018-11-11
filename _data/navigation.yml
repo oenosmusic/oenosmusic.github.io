@@ -1,11 +1,9 @@
 # main links
 main:
-  - title: "Home"
-    url: /
   - title: "About"
     url: /about/
-  - title: "Music"
-    url: /music/
+#  - title: "Music"
+#    url: /music/
   - title: "Contact"
     url: /contact/
   # - title: "Sitemap"
