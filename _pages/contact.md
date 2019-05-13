@@ -12,9 +12,10 @@ last_modified_at: 2018-04-10T08:41:35-04:00
 
 Email: oenosmusic@gmail.com
 
-- Facebook [https://www.facebook.com/oenosmusic/](https://www.facebook.com/oenosmusic/)
+- [Facebook](https://www.facebook.com/oenosmusic/)
 
-- Bandcamp [https://oenos.bandcamp.com/](https://oenos.bandcamp.com/)
+- [Bandcamp](https://oenos.bandcamp.com/)
 
+- [Instagram](https://www.instagram.com/oenosmusic/)
 
 ---

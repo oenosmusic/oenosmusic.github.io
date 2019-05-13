@@ -12,19 +12,17 @@ last_modified_at: 2018-04-10T08:41:35-04:00
 
 <br>
 <center>
-  Latest on Soundcloud
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/5UntogNBd70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <br/>
+</center>
+<br>
+<center>
+  Nero I EP (released September 20th, 2017)
 </center>
 
 <br>
-
 <center>
-<iframe width="300" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/396915345&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</center>
-
-<br>
-
-<center>
-  Nero I EP (September 20, 2017)
+  <iframe src="https://open.spotify.com/embed/album/75Nn5YHcTqtSZdWQ57UQCA" width="300px" height="300px" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </center>
 
 Stream via
@@ -33,11 +31,18 @@ Stream via
 <a href="https://www.amazon.com/Nero-I-oenos/dp/B078SVG2H5">Amazon Music</a>  
 
 <center>
-  <iframe src="https://open.spotify.com/embed/album/75Nn5YHcTqtSZdWQ57UQCA" width="300px" height="300px" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</center>
-
-<center>
 <a href='https://play.google.com/store/music/album/oenos_Nero_I?id=Bo53n2gonb4vfgw4ydyvru6qboi&hl=en_GB&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png' width="200"/></a>
 </center>
+
+<br>
+<center>
+  Latest demos on Soundcloud
+</center>
+<br>
+
+<center>
+<iframe width="300" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/396915345&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</center>
+<br>
 
 ---
