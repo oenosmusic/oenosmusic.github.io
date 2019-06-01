@@ -11,6 +11,15 @@ last_modified_at: 2018-04-10T08:41:35-04:00
 ---
 
 <br>
+
+<center>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2823823031/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://oenos.bandcamp.com/album/noir-ii">Noir II by Oenos</a></iframe>
+</center>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OhQLgCbYHsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 <center>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/5UntogNBd70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    <br/>
