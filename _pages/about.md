@@ -4,10 +4,16 @@ title: "About"
 layout: single
 excerpt: "About Oenos."
 layouts_gallery:
-  - url: /assets/images/oenos_profile_picture_2.jpg
-    image_path: /assets/images/oenos_profile_picture_2.jpg
-    alt: "Oenos profile picture"  
-last_modified_at: 2018-04-10T08:41:35-04:00
+layouts_gallery:
+  - url: /assets/images/oenos_bnw_noir_ii_2019_3.jpg
+    image_path: /assets/images/oenos_bnw_noir_ii_2019_3.jpg
+    alt: "Oenos profile picture"
+  - url: /assets/images/oenos_bnw_noir_ii_2019_2.jpg
+    image_path: /assets/images/oenos_bnw_noir_ii_2019_2.jpg
+    alt: "Oenos profile picture"
+  - url: /assets/images/oenos_bnw_noir_ii_2019_1.jpg
+    image_path: /assets/images/oenos_bnw_noir_ii_2019_1.jpg
+    alt: "Oenos profile picture"
 ---
 
 Oenos is on a mission to explore the world through wine and metal music. He is originally from Oulu, northern Finland and based in London, United Kingdom.
@@ -18,7 +24,7 @@ All music is written, recorded, programmed and produced by Sami Tuohino in Londo
 
 {% include gallery id="layouts_gallery"%}
 
-[Download photos](https://drive.google.com/open?id=1QPH-CvKNTTdTDTf_S7XLQM_WgivpLjki)
+[Download pictures](https://drive.google.com/open?id=1QPH-CvKNTTdTDTf_S7XLQM_WgivpLjki)
 
 ### Interviews
 
