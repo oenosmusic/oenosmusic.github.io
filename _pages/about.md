@@ -4,14 +4,11 @@ title: "About"
 layout: single
 excerpt: "About Oenos."
 layouts_gallery:
-  - url: /assets/images/oenos_profile_2021_1.jpg
-    image_path: /assets/images/oenos_profile_2021_1.jpg
+  - url: /assets/images/oenos_profile_2021.jpg
+    image_path: /assets/images/oenos_profile_2021.jpg
     alt: "Oenos profile picture"
   - url: /assets/images/oenos_bnw_noir_ii_2019_3.jpg
     image_path: /assets/images/oenos_bnw_noir_ii_2019_3.jpg
-    alt: "Oenos profile picture"
-  - url: /assets/images/oenos_bnw_noir_ii_2019_2.jpg
-    image_path: /assets/images/oenos_bnw_noir_ii_2019_2.jpg
     alt: "Oenos profile picture"
   - url: /assets/images/oenos_bnw_noir_ii_2019_1.jpg
     image_path: /assets/images/oenos_bnw_noir_ii_2019_1.jpg
