@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -13,8 +16,9 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
-gem "jekyll", ">= 3.7.4"
-gem "minimal-mistakes-jekyll"
+#gem "jekyll", ">= 4.2"
+#gem "minimal-mistakes-jekyll"
+#gem "sassc", "~> 2.1.0"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -25,8 +29,11 @@ gem "minimal-mistakes-jekyll"
 #   gem "jekyll-data"
 #
 # If you have any other plugins, put them here!
-group :jekyll_plugins do
-end
+#group :jekyll_plugins do
+#end
 
 # Added at 2018-01-07 15:45:43 +0000 by samituohino:
-gem "jekyll-seo-tag", "~> 2.4"
+#gem "jekyll-seo-tag", "~> 2.4"
+
+#gem "jekyll", "~> 3.7"
+#gem "minimal-mistakes-jekyll"
