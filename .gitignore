@@ -1,4 +1,3 @@
-_site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
@@ -6,5 +5,4 @@ _site/
 .bundle/
 .ruby-version
 assets/images/.DS_Store
-vendor/
 
