@@ -48,27 +48,35 @@ last_modified_at: 2018-04-10T08:41:35-04:00
 <br>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OhQLgCbYHsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/xtKrWHCOe5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <center>
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2823823031/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://oenos.bandcamp.com/album/noir-ii">Noir II by Oenos</a></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OhQLgCbYHsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
-
 
 <center>
-  Nero I EP (released September 20th, 2017)
+  Listen Musta III on Spotify
 </center>
-
 <br>
 <center>
-  <iframe src="https://open.spotify.com/embed/album/75Nn5YHcTqtSZdWQ57UQCA" width="300px" height="300px" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe src="https://open.spotify.com/embed/album/5reXyOqoDguauxwHG5bipi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </center>
+<br>
+
+<center>
+  Listen Musta III on Bandcamp
+</center>
+<br>
+
+<center>
+  <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4286813390/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://oenos.bandcamp.com/album/musta-iii">Musta III by Oenos</a></iframe>
+</center>
+<br>
 
 Stream via
- <a href="https://open.spotify.com/album/75Nn5YHcTqtSZdWQ57UQCA">Spotify</a>, <a href="http://oenos.bandcamp.com/album/nero-i">Bandcamp</a>, <a href="https://geo.itunes.apple.com/us/album/nero-i-ep/1287582427?app=music">Apple Music</a>,
-<a href="https://www.deezer.com/en/album/48649972">Deezer</a> or listen via <a href="https://play.google.com/music/m/Bo53n2gonb4vfgw4ydyvru6qboi?t=Nero_I_-_oenos">Google Play</a> and
-<a href="https://www.amazon.com/Nero-I-oenos/dp/B078SVG2H5">Amazon Music</a>  
-
+<a href="https://open.spotify.com/artist/0B71WEq7gGMFZcDUxmrtJd?si=HBB19GfXQ2OAqTIAwdDWbg">Spotify</a>, <a href="http://oenos.bandcamp.com">Bandcamp</a>, <a href="https://music.apple.com/gb/artist/oenos/1287582429">Apple Music</a>,
+<a href="https://www.deezer.com/en/artist/13213845">Deezer</a> or listen via <a href="https://music.youtube.com/channel/UC4FYw-qlW7AHI3CaJGQpXzQ">Youtube Music</a> and
+<a href="https://www.amazon.com/Musta-III-oenos/dp/B08HFWHWLV/ref=sr_1_1?dchild=1&keywords=oenos+musta+iii&qid=1621283212&s=dmusic&sr=1-1">Amazon Music</a>  
 
 ---
