@@ -2,20 +2,28 @@
 permalink: /contact/
 title: "Contact"
 layout: single
-excerpt: "Contact Oenos."
+excerpt: "Contact me"
 layouts_gallery:
   - url: /assets/images/oenos_profile.jpg
     image_path: /assets/images/oenos_profile.jpg
     alt: "Oenos profile picture"
-last_modified_at: 2018-04-10T08:41:35-04:00
 ---
 
-Email: oenosmusic@gmail.com
+<center>
+  Email 
+  <address>
+    <a href="oenosmusic@gmail.com">oenosmusic@gmail.com</a>
+  </address>
+</center>
 
-- [Instagram](https://www.instagram.com/oenosmusic/)
+<center>
+  Message on
+</center>
 
-- [Facebook](https://www.facebook.com/oenosmusic/)
+<center>
+  <a href="https://www.instagram.com/oenosmusic/">Instagram</a> 
+</center>
 
-- [Bandcamp](https://oenos.bandcamp.com/)
-
----
+<center>
+  <a href="https://www.facebook.com/oenosmusic/">Facebook</a> 
+</center>

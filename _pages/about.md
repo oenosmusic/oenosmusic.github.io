@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 layout: single
-excerpt: "About Oenos."
+excerpt: "About me"
 layouts_gallery:
   - url: /assets/images/oenos_profile_2021.jpg
     image_path: /assets/images/oenos_profile_2021.jpg
@@ -30,5 +30,3 @@ All music is written, recorded, programmed and produced by Sami Tuohino in Londo
 - [Never stop learning – an interview with wine infused metaller OENOS](https://idioteq.com/never-stop-learning-an-interview-with-wine-infused-metaller-oenos/)
 - [Juomasta musiikiksi](https://issuu.com/forum24/docs/f24_20180412/21)
 - [Turning wine into metal](https://idioteq.com/introducing-wine-infused-post-rock-metal-act-oenos/)
-
----
