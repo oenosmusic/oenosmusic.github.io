@@ -15,11 +15,11 @@ layouts_gallery:
     alt: "Oenos profile picture"
 ---
 
-Oenos is on a mission to explore the world through wine and metal music. He is originally from Oulu, northern Finland and based in London, United Kingdom.
+Oenos is on a mission to explore the world through wine and metal music.
 
-The one-man project started as a post-rock / metal experiment in late 2016 drawing inspiration from the elixir we have come to call wine; all the songs are written under the influence of various wines from around the world and are named after the bottle. Musically Oenos has since evolved to explore darker tones of Sludge, Doom, Prog and Black metal.
+The one-person project started as a post-rock / metal experiment in late 2016 drawing inspiration from the elixir we have come to call wine; all the songs are written under the influence of various wines from around the world and are named after the bottle. Musically Oenos has since evolved to explore darker tones of black, doom and sludge metal.
 
-All music is written, recorded, programmed and produced by Sami Tuohino in London, United Kingdom.
+All music is written, performed, recorded, programmed and produced by Sami Tuohino in London, United Kingdom.
 
 {% include gallery id="layouts_gallery"%}
 
