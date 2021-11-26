@@ -19,10 +19,10 @@ minimal_mistakes_skin    : "neon"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Metal music inspired by wine"
+title                    : "On a mission to explore the world through heavy music & wine"
 title_separator          : "|"
 name                     : "Oenos"
-description              : "Metal music inspired by wine."
+description              : "Heavy music & wine"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "oenosmusic/oenosmusic.github.io"
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Oenos"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Wine inspired experimental metal."
+  bio              : "On a mission to explore the world through heavy music & wine."
   location         : "Oulu, Finland / London, England"
   email            :
   uri              :
