@@ -265,6 +265,7 @@ GEM
 
 PLATFORMS
   universal-darwin-20
+  universal-darwin-21
   x86_64-linux
 
 DEPENDENCIES
@@ -272,4 +273,4 @@ DEPENDENCIES
   jekyll-include-cache
 
 BUNDLED WITH
-   2.2.17
+   2.2.32
