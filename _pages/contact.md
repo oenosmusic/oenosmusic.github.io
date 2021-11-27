@@ -12,7 +12,7 @@ layouts_gallery:
 <center>
   Email 
   <address>
-    <a href="oenosmusic@gmail.com">oenosmusic@gmail.com</a>
+    <a href="mailto:oenosmusic@gmail.com">oenosmusic@gmail.com</a>
   </address>
 </center>
 
