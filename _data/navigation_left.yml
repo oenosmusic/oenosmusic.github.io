@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Home"
-    url: /
   - title: "Music"
     url: /music/
+  - title: "Merch"
+    url: "https://oenos.teemill.com"
